@@ -13,7 +13,7 @@
 #define SERVER_IP_ADDR_0 		192
 #define SERVER_IP_ADDR_1 		168
 #define SERVER_IP_ADDR_2 		7
-#define SERVER_IP_ADDR_3 		60
+#define SERVER_IP_ADDR_3 		25
 //#define SERVER_ADDRESS_VPN		"192.168.7.60"
 
 #define SERVER_PORT 58114
